@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\bin\Debug\net7.0\HungryNinja.exe
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\bin\Debug\net7.0\HungryNinja.deps.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\bin\Debug\net7.0\HungryNinja.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\bin\Debug\net7.0\HungryNinja.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\bin\Debug\net7.0\HungryNinja.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\refint\HungryNinja.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\HungryNinja.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 3\HungryNinja\obj\Debug\net7.0\ref\HungryNinja.dll
